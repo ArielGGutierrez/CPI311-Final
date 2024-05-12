@@ -1,4 +1,5 @@
-# Monogame Asteroids-style Arcade Shooter
+# Protect the Ship!
+A Monogame Asteroids-style Arcade Shooter
 
 ![image](https://github.com/ArielGGutierrez/CPI311-Final/assets/78765691/6e4c6de2-4ed1-46d0-b6fa-9a2ff5a65994)
 
